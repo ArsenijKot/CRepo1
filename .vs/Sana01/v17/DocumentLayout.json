@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Sana01\\",
+  "WorkspaceRootPath": "D:\\repos\\Sana01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B52D738-7481-4336-81D3-4A8BE9BD7D26}|Sana01\\Sana01.csproj|c:\\users\\admin\\source\\repos\\sana01\\sana01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B52D738-7481-4336-81D3-4A8BE9BD7D26}|Sana01\\Sana01.csproj|solutionrelative:sana01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B52D738-7481-4336-81D3-4A8BE9BD7D26}|Sana01\\LinearExpressions1.csproj|d:\\repos\\sana01\\sana01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B52D738-7481-4336-81D3-4A8BE9BD7D26}|Sana01\\LinearExpressions1.csproj|solutionrelative:sana01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DECE50A2-7C78-4654-87D4-C938F5C6C48F}|LinearExpression2\\LinearExpression2.csproj|c:\\users\\admin\\source\\repos\\sana01\\linearexpression2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECE50A2-7C78-4654-87D4-C938F5C6C48F}|LinearExpression2\\LinearExpression2.csproj|solutionrelative:linearexpression2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECE50A2-7C78-4654-87D4-C938F5C6C48F}|LinearExpression2\\LinearExpressions2.csproj|d:\\repos\\sana01\\linearexpression2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECE50A2-7C78-4654-87D4-C938F5C6C48F}|LinearExpression2\\LinearExpressions2.csproj|solutionrelative:linearexpression2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sana01\\LinearExpression2\\Program.cs",
+              "DocumentMoniker": "D:\\repos\\Sana01\\LinearExpression2\\Program.cs",
               "RelativeDocumentMoniker": "LinearExpression2\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sana01\\LinearExpression2\\Program.cs",
+              "ToolTip": "D:\\repos\\Sana01\\LinearExpression2\\Program.cs",
               "RelativeToolTip": "LinearExpression2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sana01\\Sana01\\Program.cs",
+              "DocumentMoniker": "D:\\repos\\Sana01\\Sana01\\Program.cs",
               "RelativeDocumentMoniker": "Sana01\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sana01\\Sana01\\Program.cs",
+              "ToolTip": "D:\\repos\\Sana01\\Sana01\\Program.cs",
               "RelativeToolTip": "Sana01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
